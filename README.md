@@ -1,6 +1,9 @@
 Christopher Von Wilczur
 ============
 
+**LinkedIn**: ([cvonwilczur](https://www.linkedin.com/in/cvonwilczur/))
+**Github**: ([cvonwilczur](https://github.com/cvonwilczur))
+
 ----
 
 >  Driven, self-taught developer who lives by the ethos of dogged determination and inclusive collaboration.
@@ -38,8 +41,7 @@ trainings and customer webinars
 Education
 ---------
 
-**2018** 
-:   **Front End Web Developer Nanodegree**; Udacity 
+**2018**:   **Front End Web Developer Nanodegree**; Udacity 
 
 * Worked through 5 months of coursework in 2.5 months while maintaining fulltime
 employment
@@ -47,8 +49,7 @@ employment
 * Passed code review for 7 development projects, ranging from React to webtesting
 and OOP
 
-**2010 - 2014**
-:   **BA, Journalism**; Arizona State University
+**2010 - 2014**:   **BA, Journalism**; Arizona State University
     
 * Graduated Summa Cum Laude
 
