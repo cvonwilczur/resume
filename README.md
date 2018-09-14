@@ -1,7 +1,7 @@
 Christopher Von Wilczur
 ============
 
-**LinkedIn**: ([cvonwilczur](https://www.linkedin.com/in/cvonwilczur/))
+**LinkedIn**: ([cvonwilczur](https://www.linkedin.com/in/cvonwilczur/))\
 **Github**: ([cvonwilczur](https://github.com/cvonwilczur))
 
 ----
