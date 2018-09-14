@@ -10,7 +10,7 @@ Christopher Von Wilczur
 
 Experience
 ----------
-**Dec 2017 - Present**
+**Dec 2017 - Present**\
 **Product Operations Specialist - Zenefits:**
 
 * Led efficiency gains through web crawling and file parsing with self-taught
@@ -22,7 +22,7 @@ Python and Selenium, leading to a 48% increase in market reach
 * Generated SQL-powered reports of internal data and external market research
 to guide engineers in new product design
 
-**Jun 2015 - Dec 2017**
+**Jun 2015 - Dec 2017**\
 **Account Manager - Zenefits:**
 
 * Advised enterprise customers, providing high-level product support and acting
@@ -57,7 +57,7 @@ and OOP
 Projects
 --------------------
 
-**Face Recognition App**(with [link](https://facial-recognition-game.herokuapp.com/))
+**Face Recognition App** (with [link](https://facial-recognition-game.herokuapp.com/))
 :  
 
 * Developed a basic React app using PERN stack meant to gamify feeding a
@@ -67,7 +67,7 @@ facial recognition API with images
 extensible database
 
 
-**YelpDND**(with [link](https://yelpdnd.herokuapp.com/groups))
+**YelpDND** (with [link](https://yelpdnd.herokuapp.com/groups))
 :  
 
 * Created a Yelp-style, basic CRUD app using MEN stack and EJS for templating
@@ -76,7 +76,7 @@ extensible database
 authentication
 
 
-**React Neighborhood App**(with [link](https://github.com/cvonwilczur/react-maps-app))
+**React Neighborhood App** (with [link](https://github.com/cvonwilczur/react-maps-app))
 :  
 
 * Implemented a single-page map application using React framework
